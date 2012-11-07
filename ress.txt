@@ -1,0 +1,3 @@
+sentences: 0
+words 6
+asdasd 6

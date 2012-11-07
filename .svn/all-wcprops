@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/67/trunk/Sentenced
+END
+puutesti.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/35/trunk/Sentenced/puutesti.txt
+END
+Sentenced.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/48/trunk/Sentenced/Sentenced.pdf
+END
+puutesti2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/35/trunk/Sentenced/puutesti2.txt
+END
+text.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/35/trunk/Sentenced/text.txt
+END
+tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/67/trunk/Sentenced/tests.c
+END
+avltree.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/53/trunk/Sentenced/avltree.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/64/trunk/Sentenced/main.c
+END
+testi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/35/trunk/Sentenced/testi.txt
+END
+rikosjarang.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/36/trunk/Sentenced/rikosjarang.txt
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/66/trunk/Sentenced/read.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/58/trunk/Sentenced/misc.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/47/trunk/Sentenced/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/35/trunk/Sentenced/Makefile
+END
+sentenced.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/56/trunk/Sentenced/sentenced.h
+END
